@@ -1,4 +1,4 @@
-## User Login authentication with React asn Semantic UI
+## User Login authentication with React and Semantic UI
 
 The app creates/updates user login data and directs valid users to the dashboard page.
 
